@@ -1,0 +1,30 @@
+body {
+    background-image:url(../picture/back.jpg);
+    background-attachment:fixed;
+    background-size:100% 100%;
+    font-style:normal;
+}
+*{
+    margin:0;
+    padding:0;
+}
+ul,ol,dl,li{
+    list-style:none;
+}
+i,em{
+    font-style:normal;
+}
+b,strong{
+    font-style:normal;
+    font-weight:normal;
+}
+u,a{
+    text-decoration:none;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight:normal;
+}
+form input{
+    border:none;
+    outline:none;
+}
